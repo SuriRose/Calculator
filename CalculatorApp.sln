@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorApp", "Calculator
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcWinForms", "CalcWinForms\CalcWinForms.csproj", "{1B679A37-A31A-46C8-A1F7-01766ACCB281}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiCalculator", "MauiCalculator\MauiCalculator.csproj", "{E16AC34B-1BC7-4C7B-8779-4EE5F6AC8EC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,12 @@ Global
 		{1B679A37-A31A-46C8-A1F7-01766ACCB281}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B679A37-A31A-46C8-A1F7-01766ACCB281}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B679A37-A31A-46C8-A1F7-01766ACCB281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E16AC34B-1BC7-4C7B-8779-4EE5F6AC8EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16AC34B-1BC7-4C7B-8779-4EE5F6AC8EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16AC34B-1BC7-4C7B-8779-4EE5F6AC8EC0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E16AC34B-1BC7-4C7B-8779-4EE5F6AC8EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E16AC34B-1BC7-4C7B-8779-4EE5F6AC8EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E16AC34B-1BC7-4C7B-8779-4EE5F6AC8EC0}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
