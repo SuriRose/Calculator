@@ -3,6 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiCalculator.Calculator"
              Title="Calculator">
+    
     <Grid ColumnDefinitions="*" RowDefinitions="*,5*">
         <Grid ColumnDefinitions="*,Auto,Auto,*" RowDefinitions="*" Grid.Column="0" Grid.Row="0">
         </Grid>
