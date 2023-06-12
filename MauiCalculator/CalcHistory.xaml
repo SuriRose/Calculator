@@ -3,6 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiCalculator.CalcHistory"
              Title="Calculator">
+    
     <Grid RowDefinitions="30, 50, 50, 50" ColumnDefinitions="30, 100, 100, 100">
         <Label Text="35 + 2 = 37" Grid.Column="1" Grid.Row="1"/>
         <Label Text="165 - 23 = 142" Grid.Column="1" Grid.Row="2"/>
